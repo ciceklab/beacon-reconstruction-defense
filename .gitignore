@@ -1,0 +1,12 @@
+data/
+__pycache__/
+wandb/
+wandb_runs_logs/
+*.zarr
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.DS_Store
+.DS_Store?
